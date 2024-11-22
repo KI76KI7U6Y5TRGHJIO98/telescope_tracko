@@ -1,0 +1,126 @@
+<!DOCTYPE html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dale College Astronomy Club</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Login Section -->
+    <section id="login">
+        <h2>Login to Dale College Astronomy Club</h2>
+        <form id="login-form">
+            <label for="login-email">Email:</label>
+            <input type="email" id="login-email" name="email" required>
+
+            <label for="login-password">Password:</label>
+            <input type="password" id="login-password" name="password" required>
+
+            <button type="submit">Login</button>
+        </form>
+        <p>Don't have an account? <a href="javascript:void(0);" onclick="toggleForms()">Register Here</a></p>
+    </section>
+
+    <!-- Registration Section -->
+    <section id="register" style="display: none;">
+        <h2>Register for the Astronomy Club</h2>
+        <form id="register-form">
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" required>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" required>
+
+            <label for="confirm-password">Confirm Password:</label>
+            <input type="password" id="confirm-password" name="confirm-password" required>
+
+            <button type="submit">Register</button>
+        </f
+
+<html>
+<head>
+<style>
+body {
+  background-color:white;
+}
+</style>
+</head>
+<body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dale College Astronomy Club</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Dale College Astronomy Club</h1>
+        <p>Exploring the Universe, One Star at a Time</p>
+    </header>
+    <main>
+        <section id="about">
+            <h2>About Us</h2><div id="search-panel">
+            <input type="text" id="search-input" placeholder="Search..." />
+            <button onclick="searchSite()">Search</button>
+        </div>
+    </header>
+    <main>
+            <p>The Dale College Astronomy Club is a vibrant group of learners passionate about the cosmos. We explore the night sky, conduct educational workshops, and share the wonders of astronomy with our community.</p>
+        </section>
+        <section id="moon">
+            <h2>Interactive Moon</h2>
+            <p>Explore the Moon by interacting with the 3D model below!</p>
+            <div id="moon-container"></div><!DOCTYPE html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Moon</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="moon-container">
+        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAAAkCAIAAADqzIzqAAEAAElEQVR4nOzdd3gU5e7H8Q8cUN2sbKqtLrt01qWlqaZLPqgok2mkaBfrn1J27B6Q9i4D1f6HkCauL7t2aAkAqhkzDZrcOxL1Wof3h11OeF9m9KwfdwOX5PfjqHfffdftklTzNTZj7Z5+Xqd5U6tZ6nKZo9lFq4FjxvjTjG5z5U3zqZwGcIHbUNuLlkpW
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Moon</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="moon-container">
+        <img src="moon-phase-1.png" alt="Moon Phase" id="moon" onclick="changeMoonPhase()">
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Dale College Astronomy Club</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
+
+        </section>
+        <section id="events">
+            <h2>Upcoming Events</h2>
+            <ul
+    </main>
+    <footer>
+        <p>&copy; 2025 Dale College Astronomy Club</p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.154.0/build/three.module.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
+
+</body>
+</html>
+
+
